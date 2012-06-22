@@ -1,4 +1,4 @@
 node-im
 =======
 
-Node Instant Messenger Server
+Node Instant Messenger
